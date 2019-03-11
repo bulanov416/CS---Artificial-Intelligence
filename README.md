@@ -5,3 +5,4 @@ I am currently a senior in high school, and I am taking an independent study on 
 
 **Projects**
 1) Post Correspondence Problem (Named DominoProblem in code repo)
+2) Minimax search algorithm (Named AdversarialSearchProject in code repo)

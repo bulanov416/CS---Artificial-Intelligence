@@ -19,8 +19,6 @@ public class main {
 
     public static void main(String[] args) throws SearchCutoff, SearchFailure, IOException {
 
-        //dataParser("C:\\Users\\Alex Bulanov\\Documents\\School\\2018-2019\\CS - Artificial Intelligence\\src\\DominoProblem\\data.txt");
-
         ArrayList<ArrayList<String>> doms = new ArrayList<>();
 
         doms = dominoInitializer(dataParser(path));
